@@ -1,0 +1,6 @@
+{
+  "name": "おやすみ浄化 (Night Release)",
+  "description": "寝る前に今日の嫌なことや心の重荷を手放し、温かな癒やしと明日の希望に包まれて安らかに眠るためのナイトリチュアルアプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
